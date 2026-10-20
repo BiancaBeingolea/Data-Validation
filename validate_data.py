@@ -6,7 +6,7 @@ def run_validations():
     print("Loading Superstore Orders dataset for Pandas validation...")
     
     # Load the dataset
-    file_path = "Sample - Superstore - Orders.csv"
+    file_path = "data/Sample - Superstore - Orders.csv"
     
     try:
         df = pd.read_csv(file_path)
