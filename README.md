@@ -4,7 +4,7 @@ An automated data quality assurance pipeline built with **Python**, **Pandas**, 
 
 This repository demonstrates how to integrate automated data validation into a CI/CD workflow to test datasets and block invalid data before it reaches production.
 
-You can read the accompanying blog here: 
+You can read the accompanying blog here: https://www.thedataschool.com/bianca-beingolea/automating-data-validation-with-github-actions/
 
 ---
 
